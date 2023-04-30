@@ -46,3 +46,9 @@ h1 {
     width: 150px;
     height: 150px;
 }
+
+.phrase {
+    color: antiquewhite;
+    font-family: 'Lobster', cursive;
+    text-align: justify;
+}
